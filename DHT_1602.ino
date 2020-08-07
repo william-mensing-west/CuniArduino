@@ -7,7 +7,6 @@ interact with Alexa Skill voice commands.
 
 MIT License
 
-Original (C) 2015 Ole Wolf <wolf@blazingangles.com>
 Modified Copyright (c) 2020 William West
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
